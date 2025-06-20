@@ -1,0 +1,42 @@
+.topic{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.topic p{
+    color: grey;
+}
+.food{
+    display: flex;
+    gap: 10px;
+    
+}
+.food__1,.food__2,.food__3,.food__4{
+    border: solid black 2px;
+    width: 400px;
+    
+}
+.food__3 img,.food__1 img,.food__2 img,.food__4 img{
+    width: 300px;
+    
+}
+.food__1__p,.food__2__p,.food__3__p,.food__4__p{
+     padding: 10px;
+     text-align: center;
+     background-color: black;
+     color: white;
+     width: 100px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    
+}
+.footer__1{
+    background-color: chocolate;
+    color: white;
+    display: inline;
+}
+.footer__box{
+    text-align: center;
+}
